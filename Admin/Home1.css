@@ -1,0 +1,19 @@
+#Home{
+
+position: absolute;
+top: 60px;
+right: 240px;
+border: 1px solid transparent;
+}
+
+#Home{
+    text-decoration: none;
+    color:#09F;
+    padding: 5px 20px;
+}
+
+#Home:hover{
+    color:#09F;
+    border: 1px solid;
+    transition: 0.6s ease;
+}
